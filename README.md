@@ -1,6 +1,6 @@
 ## Hi there 👋
 # I am Veronique, copying from Asa
-I’m an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
+He is an **educator, full-stack engineer, and content creator** passionate about making programming accessible to everyone. My GitHub is packed with **free, high-quality learning resources** on web development, Python, data analysis, and more.
 
 ---
 
